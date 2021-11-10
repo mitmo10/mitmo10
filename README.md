@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmad Ramadhan
+- 👀 I’m interested in Computer science and gaming
+- 🌱 I’m currently learning IPB university
+- 📫 How to reach me aaarama21@gmail.com
