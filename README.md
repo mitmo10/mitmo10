@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ahmad Ramadhan
-- 👀 I’m interested in Computer science and gaming
-- 🌱 I’m currently learning IPB university
+- 👀 I’m interested in Competitive programming, code, ride, and gaming
+- 🌱 I’m currently learning in Computer Science, IPB university
 - 📫 How to reach me aaarama21@gmail.com
+- more contact : 0822-9639-9325
